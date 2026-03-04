@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>🌟 Project Nova</h1>
-  <p><strong>Open-source local AI desktop app. Fully offline. Fully yours.</strong></p>
+  <h1>🌟 Project Novex</h1>
+  <p><strong>Open-source local AI webapp app. Fully offline. Fully yours.</strong></p>
 
   ![License](https://img.shields.io/badge/license-MIT-blue)
   ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)
@@ -9,9 +9,9 @@
 
 ---
 
-## What is Project Nova?
+## What is Project Novex?
 
-Project Nova is a planned free, open-source desktop application that brings a full suite of AI tools together — running entirely on your own machine. No subscriptions. No cloud. No data leaving your PC.
+Project Novex is a planned free, open-source desktop application that brings a full suite of AI tools together — running entirely on your own machine. No subscriptions. No cloud. No data leaving your PC.
 
 Built for creators, researchers, and developers who want real AI power without the privacy trade-offs.
 
